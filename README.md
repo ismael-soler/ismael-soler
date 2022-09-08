@@ -10,13 +10,10 @@
 
 
 ```python
-Aca, va a ir una cita 'muy buena'
+"Learn the rules like a pro, so you can break them like an artist." -Pablo Picasso
 ```
-#
 
-<p align="center">
-Studying Software Development at Holberton School!
-</p>
+<p align="center">Studying Software Development at Holberton School! 🤠</p>
 
 #
 
@@ -43,9 +40,12 @@ Studying Software Development at Holberton School!
 <p align="center">
 <!--first button-->
 <a href="https://www.linkedin.com/in/ismael-soler-61564724b/" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/ismael-soler-61564724b/" width=7% /></a>
+<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/ismael-soler-61564724b/" width=7% />
+</a>
 <!--second button-->
-<a href="mailto:ismaelsolerferreira@gmail.com"> <img width=7% src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+<a href="mailto:ismaelsolerferreira@gmail.com">
+<img width=7% src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+</a>
 </p>
 
 #
@@ -61,8 +61,12 @@ Studying Software Development at Holberton School!
 <img align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-soler&theme=gruvbox" alt="ismael-soler" />
 <!-- third add-on -->
 <img align="center" width="45.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-soler&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=#2e2d2c" alt="ismael-soler" />
-
 </p>
+
+<br>
+<p align="center">
+Last update 08/09/2022
+<p>
 
 
 
