@@ -6,11 +6,13 @@
 <p align="center"><img width=100% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
 
 
-- 🌱 I’m currently a Software Engineer Student at Holberton School
 
-- 📫 How to reach me **ismael-soler1998@gmail.com**
+<p align="center">
+<img height=110% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-soler&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=#2e2d2c" alt="ismael-soler" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-soler&theme=gruvbox" alt="ismael-soler" />
+</p>
 
-- 📚 I have a degree in International Relations
+
 
 <br>
 
