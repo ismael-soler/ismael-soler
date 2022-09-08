@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Ismael Soler</h1>
 <br>
-<p align="center"><img width=1100px height=230px src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="adam-pw" /></p>
+<p align="center"><img width=100% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently a Software Engineer Student at Holberton School
