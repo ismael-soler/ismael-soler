@@ -19,7 +19,9 @@
 
 <br>
 
-### 📈 My Github stats
+<h3 align="center" font->
+📈 My Github stats
+</h3>
 <!-- ADD-ONS -->
 <p align="center">
 <!-- first add on -->
