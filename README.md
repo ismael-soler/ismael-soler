@@ -12,13 +12,16 @@
 ```python
 Aca, va a ir una cita 'muy buena'
 ```
+#
 
 <p align="center">
-
+Studying Software Development at Holberton School!
 </p>
 
+#
+
 <!-- LANGUAGE AND TOOLS -->
-<h3 align="center"> Languages and Tools:</h3>
+<h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
 <a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH" width=5.7%></img></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -29,18 +32,24 @@ Aca, va a ir una cita 'muy buena'
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+##
 
+<!--CONTACT-->
+<h3 align="center">
+🕊 Contact me!
+</h3>
 <!-- CONTACT -->
 <p align="center">
 <!--first button-->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismael-soler-61564724b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-soler-61564724b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ismael-soler-61564724b/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-soler-61564724b/" height="30" width="40" /></a>
 <!--second button-->
 <a href="mailto:ismaelsolerferreira@gmail.com"> <img width=5% src="https://i.imgur.com/5UstuTV.png"/></a>
 </p>
 
+#
 
-<h3 align="center" font->
+<h3 align="center">
 📈 My Github stats
 </h3>
 <!-- ADD-ONS -->
