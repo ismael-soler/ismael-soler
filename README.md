@@ -1,6 +1,6 @@
 <h1 align="center"> 
-<img width=5% src="https://s5.gifyu.com/images/ezgif.com-gif-maker-3ba49abe6c32abe6c.gif" alt="gif" />
-Hi, I'm Ismael Soler
+<img width=3.5% src="https://s5.gifyu.com/images/ezgif.com-gif-maker-3ba49abe6c32abe6c.gif" alt="gif" />
+  Hi, I'm Ismael Soler
 </h1>
 <br>
 <p align="center"><img width=100% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
