@@ -9,15 +9,25 @@
 <p align="center"><img width=90% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
 
 
-<p align="center"></p>
+```python
+
+```
+
+<p align="center">
+
+</p>
 
 <br>
+
+### 📈 My Github stats
 <!-- ADD-ONS -->
 <p align="center">
-<!-- first add-on -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-soler&theme=gruvbox" alt="ismael-soler" />
+<!-- first add on -->
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ismael-soler&theme=gruvbox&custom_title=Contribution%20Graph">
 <!-- second add-on -->
-<img height=110% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-soler&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=#2e2d2c" alt="ismael-soler" />
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-soler&theme=gruvbox" alt="ismael-soler" />
+<!-- third add-on -->
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-soler&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=#2e2d2c" alt="ismael-soler" />
 </p>
 
 
@@ -25,7 +35,7 @@
 <!-- LANGUAGE AND TOOLS -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH" width=5.7%></img></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
