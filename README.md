@@ -32,8 +32,11 @@ Aca, va a ir una cita 'muy buena'
 
 <!-- CONTACT -->
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismael-soler-61564724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-soler-61564724b/" height="30" width="40" /></a>
-<a href="mailto:ismaelsolerferreira@gmail.com"> <img width=5% src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
+<!--first button-->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismael-soler-61564724b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismael-soler-61564724b/" height="30" width="40" /></a>
+<!--second button-->
+<a href="mailto:ismaelsolerferreira@gmail.com"> <img width=5% src="https://i.imgur.com/5UstuTV.png"/></a>
 </p>
 
 
