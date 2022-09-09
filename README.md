@@ -39,7 +39,7 @@
 <!-- CONTACT -->
 <div align="center">
   
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Ismael%20Soler/Software%20Engineer/Student/Montevideo,%20Uruguay/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQES74YkfzqLkA%2Fprofile-displayphoto-shrink_800_800%2F0%2F1662583765731%3Fe%3D1668038400%26v%3Dbeta%26t%3DqXFlzSjShemfOPrjfospnD79A6fCArlJLHde4mATCKg)](www.linkedin.com/in/ismael-soler)
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Ismael%20Soler/Software%20Engineer/Student/Montevideo,%20Uruguay/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQES74YkfzqLkA%2Fprofile-displayphoto-shrink_800_800%2F0%2F1662583765731%3Fe%3D1668038400%26v%3Dbeta%26t%3DqXFlzSjShemfOPrjfospnD79A6fCArlJLHde4mATCKg)](http://www.linkedin.com/in/ismael-soler/)
   
 </div>
 
