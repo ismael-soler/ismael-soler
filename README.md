@@ -11,7 +11,12 @@
 >"And so, does the destination matter? Or is it the path we take? I declare that no accomplishment has substance nearly as great as the road used to achieve it"
 ― Brandon Sanderson, The Way of Kings
 
-
+Some basic Git commands are:
+```python
+'And so, does the destination matter? Or is it the path we take? I declare that no
+accomplishment has substance nearly as great as the road used to achieve it'
+― Brandon Sanderson, The Way of Kings
+```
 
 
 #
