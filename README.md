@@ -57,8 +57,10 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <p>
 
 <div>
+<h2 align="center">
   <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
-  <span style="">ismaelsolerferreira@gmail.com</span>
+  <span style="middle">ismaelsolerferreira@gmail.com</span>
+</h2>
 </div>
 <!--<div>
   <img style="vertical-align:middle" width="5%" src="https://gifyu.com/image/Swf7x" alt="Email">
