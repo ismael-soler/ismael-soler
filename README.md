@@ -12,7 +12,7 @@
 ```PHP
 "And so, does the destination matter? Or is it the path we take? I declare that no
 accomplishment has substance nearly as great as the road used to achieve it"
-― Brandon Sanderson
+― Brandon Sanderson, The Stormlight Archive
 ```
 
 
