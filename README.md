@@ -26,7 +26,7 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <!--BASH-->
 <a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH" width=7%></img></a>
 <!--C-->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=7%/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width=6.4%/> </a>
 <!--C#-->
 <!--<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width=7%/> </a>-->
 <!--GIT-->
@@ -36,7 +36,7 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <!--HTML-->
 <!--<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=7%/> </a>-->
 <!--PHOTOSHOP-->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width=6%/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/552/552220.png" alt="photoshop" width=6%/> </a>
 <!--PYTHON-->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=7%/> </a>
 <!--UNITY-->
@@ -58,8 +58,8 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 <div>
 <h3 align="center">
-  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
-  <p>  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email"> ismaelsolerferreira@gmail.com</p>
+  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email"> mail esto es lo que quiero que quede
+  <p>ismaelsolerferreira@gmail.com</p>
 </h3>
 </div>
 <!--<div>
