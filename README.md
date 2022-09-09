@@ -9,9 +9,9 @@
 <p align="center"><img width=90% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
 
 
-```python
-'And so, does the destination matter? Or is it the path we take?'
-'I declare that no accomplishment has substance nearly as great as the road used to achieve it'
+
+```C
+"And so, does the destination matter? Or is it the path we take? I declare that no accomplishment has substance nearly as great as the road used to achieve it"
 ― Brandon Sanderson, The Way of Kings
 ```
 
