@@ -46,9 +46,9 @@ accomplishment has substance nearly as great as the road used to achieve it"
 ##
 
 <!--CONTACT-->
-<h2 align="center">
+<h3 align="center">
 🕊 Contact me!
-</h2>
+</h3>
 <!-- CONTACT -->
 <div align="center">
 
@@ -74,9 +74,9 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 #
 
-<h2 align="center">
+<h3 align="center">
 📈 My Github stats
-</h2>
+</h3>
 <!-- ADD-ONS -->
 <p align="center">
 <!-- first add on -->
