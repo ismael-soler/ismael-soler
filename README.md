@@ -10,7 +10,8 @@
 
 
 ```python
-"Learn the rules like a pro, so you can break them like an artist." -Pablo Picasso
+'And so, does the destination matter? Or is it the path we take? No accomplishment has substance nearly as great as the road used to achieve it'
+― Brandon Sanderson, The Way of Kings
 ```
 
 <p align="center">Studying Software Development at Holberton School! 🤠</p>
