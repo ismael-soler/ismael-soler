@@ -8,12 +8,10 @@
 <!-- BANNER -->
 <p align="center"><img width=90% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
 
-
-
-```javascript
-"And so, does the destination matter? Or is it the path we take? I declare that no accomplishment has substance nearly as great as the road used to achieve it"
+>"And so, does the destination matter? Or is it the path we take? I declare that noaccomplishment has substance nearly as great as the road used to achieve it"
 ― Brandon Sanderson, The Way of Kings
-```
+
+
 
 <p align="center">Studying Software Development at Holberton School! 🤠</p>
 <p align="center">Currently working on holbertonschool-higher_level_programming</p>
