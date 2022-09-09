@@ -14,21 +14,32 @@
 ```
 
 <p align="center">Studying Software Development at Holberton School! 🤠</p>
+<p align="center">Currently working on holbertonschool-higher_level_programming</p>
 
 #
 
 <!-- LANGUAGE AND TOOLS -->
 <h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
+<!--BASH-->
 <a  href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="BASH" width=7%></img></a>
+<!--C-->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=7%/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width=7%/> </a>
+<!--C#-->
+<!--<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width=7%/> </a>-->
+<!--GIT-->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width=6.5%/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=7.5%/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=7%/> </a>
+<!--CSS-->
+<!--<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width=7.5%/> </a>-->
+<!--HTML-->
+<!--<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width=7%/> </a>-->
+<!--PHOTOSHOP-->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width=6%/> </a>
+<!--PYTHON-->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=7%/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width=7%/> </a> </p>
+<!--UNITY-->
+<!--<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width=7%/> </a> -->
+</p>
 
 ##
 
@@ -38,9 +49,9 @@
 </h3>
 <!-- CONTACT -->
 <div align="center">
-  
+
 [![linkedin](https://linkedin-github.herokuapp.com/api/render/Ismael%20Soler/Software%20Engineer/Student/Montevideo,%20Uruguay/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQES74YkfzqLkA%2Fprofile-displayphoto-shrink_800_800%2F0%2F1662583765731%3Fe%3D1668038400%26v%3Dbeta%26t%3DqXFlzSjShemfOPrjfospnD79A6fCArlJLHde4mATCKg)](http://www.linkedin.com/in/ismael-soler/)
-  
+
 </div>
 
 #
@@ -60,8 +71,9 @@
 
 <br>
 <p align="center">
-Last update 08/09/2022
+Last update 09/09/2022
 <p>
 
 
 
+<!--https://linkedin-github.herokuapp.com/api/render/Ismael%20Soler/Software%20Engineer/Student/Montevideo,%20Uruguay/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQES74YkfzqLkA%2Fprofile-displayphoto-shrink_800_800%2F0%2F1662583765731%3Fe%3D1668038400%26v%3Dbeta%26t%3DqXFlzSjShemfOPrjfospnD79A6fCArlJLHde4mATCKg)](http://www.linkedin.com/in/ismael-soler/-->
