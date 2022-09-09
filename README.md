@@ -46,9 +46,9 @@ accomplishment has substance nearly as great as the road used to achieve it"
 ##
 
 <!--CONTACT-->
-<h3 align="center">
+<h2 align="center">
 🕊 Contact me!
-</h3>
+</h2>
 <!-- CONTACT -->
 <div align="center">
 
@@ -57,10 +57,10 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <p>
 
 <div>
-<h2 align="center">
+<h3 align="center">
   <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
   <span style="middle">ismaelsolerferreira@gmail.com</span>
-</h2>
+</h3>
 </div>
 <!--<div>
   <img style="vertical-align:middle" width="5%" src="https://gifyu.com/image/Swf7x" alt="Email">
@@ -74,9 +74,9 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 #
 
-<h3 align="center">
+<h2 align="center">
 📈 My Github stats
-</h3>
+</h2>
 <!-- ADD-ONS -->
 <p align="center">
 <!-- first add on -->
