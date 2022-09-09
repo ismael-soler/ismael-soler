@@ -10,7 +10,8 @@
 
 
 ```python
-'And so, does the destination matter? Or is it the path we take? No accomplishment has substance nearly as great as the road used to achieve it'
+'And so, does the destination matter? Or is it the path we take?
+No accomplishment has substance nearly as great as the road used to achieve it'
 ― Brandon Sanderson, The Way of Kings
 ```
 
