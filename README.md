@@ -58,8 +58,8 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 <div>
 <h3 align="center">
-  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email"> ismaelsolerferreira@gmail.com
-  <p>ismaelsolerferreira@gmail.com</p>
+  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
+  <p>  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email"> ismaelsolerferreira@gmail.com</p>
 </h3>
 </div>
 <!--<div>
