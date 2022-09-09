@@ -3,21 +3,21 @@
 <img width=3.5% src="https://s5.gifyu.com/images/ezgif.com-gif-maker-3ba49abe6c32abe6c.gif" alt="gif" />
   Hi! I'm Ismael Soler
 </h1>
-<br>
+
 
 <!-- BANNER -->
 <p align="center"><img width=90% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
 
->"And so, does the destination matter? Or is it the path we take? I declare that noaccomplishment has substance nearly as great as the road used to achieve it"
+>"And so, does the destination matter? Or is it the path we take? I declare that no accomplishment has substance nearly as great as the road used to achieve it"
 ― Brandon Sanderson, The Way of Kings
 
 
 
-<p align="center">Studying Software Development at Holberton School! 🤠</p>
-<p align="center">Currently working on holbertonschool-higher_level_programming</p>
 
 #
 
+<p align="center">Studying Software Development at Holberton School! 🤠</p>
+<p align="center">Currently working on holbertonschool-higher_level_programming</p>
 <!-- LANGUAGE AND TOOLS -->
 <h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
