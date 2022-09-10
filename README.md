@@ -91,8 +91,6 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <br>
 <div align="center">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=ismael-soler&label=Profile%20Views&countColor=%23263759)](https://visitorbadge.io/status?path=ismael-soler)
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fismael-soler&label=Profile%20Views&labelColor=%23d9e3f0&countColor=%23697689&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fismael-soler)
 
 Last update 10/09/2022
