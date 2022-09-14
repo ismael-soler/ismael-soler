@@ -53,13 +53,13 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <!-- LINKEDIN -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ismael-soler/"> <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" alt="linkedin" width=5%/>
+<a href="https://www.linkedin.com/in/ismael-soler/"> <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" alt="linkedin" width=6%/>
 </a>
 
 <p>
 <div>
 <h3 align="center">
-  <img style="vertical-align:middle" width="5%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
+  <img style="vertical-align:middle" width="6.3%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
   <p>ismaelsolerferreira@gmail.com</p>
 </h3>
 </div>
