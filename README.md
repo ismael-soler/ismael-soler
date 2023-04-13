@@ -47,8 +47,7 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,html,css,bash,&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,django,flask,mysql,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,html,css,bash,react,django,flask,mysql&theme=dark)](https://skillicons.dev)
 
 </div>
 
