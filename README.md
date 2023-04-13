@@ -85,14 +85,12 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <h3 align="center">
 📈 My Github stats
 </h3>
-<!-- ADD-ONS -->
 <p align="center">
-<!-- first add on -->
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ismael-soler&theme=gruvbox&custom_title=Contribution%20Graph">
-<!-- second add-on -->
-<img align="center" width="45.3%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael-soler&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=#2e2d2c" alt="ismael-soler" />
-<!-- third add-on -->
-<img align="center" width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismael-soler&theme=gruvbox" alt="ismael-soler" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,m,css,php" alt="salvaborit" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=ismael-soler&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
+ <br>
+ <br>
 </p>
 
 <br>
