@@ -19,8 +19,8 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 #
 
-<p align="center">Studying Software Development at Holberton School! 🤠</p>
-<p align="center">Currently working on holbertonschool-higher_level_programming</p>
+<p align="center">Holberton School Software Develompent graduate 🤠</p>
+<!-- <p align="center">Currently working on holbertonschool-higher_level_programming</p> -->
 <!-- LANGUAGE AND TOOLS -->
 <h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
@@ -48,7 +48,7 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 <!--CONTACT-->
 <h3 align="center">
-🕊 Contact me!
+🕊 Contact me
 </h3>
 <!-- LINKEDIN -->
 <div align="center">
