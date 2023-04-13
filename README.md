@@ -53,6 +53,27 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 ##
 
+
+<h3 align="center">
+⚒️ Relevant projects
+</h3>
+<p align="center"><a href="https://github.com/ismael-soler/fleet_manager_api">Fleet Manager API (backend)</a></p>
+<p align="center"><a href="https://github.com/ismael-soler/fleet_manager_app">Fleet Manager App (frontend)</a></p>
+<p align="center"><a href="https://github.com/ismael-soler/sorting_algorithm_visualizer">Sorting Algorithm Visualizer</a></p>
+<p align="center"><a href="https://github.com/ismael-soler/holbertonschool-AirBnB_clone">Simple Airbnb clone</a></p>
+<p align="center"><a href="https://github.com/ismael-soler/holbertonschool-simple_shell">Shell in C</a></p>
+
+
+<br>
+<h3 align="center">
+📈 My Github stats
+</h3>
+<p align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,m,css,php" alt="salvaborit" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=ismael-soler&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
+ <br>
+
 <!--CONTACT-->
 <h3 align="center">
 🕊 Contact me
@@ -63,7 +84,6 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <a href="https://www.linkedin.com/in/ismael-soler/"> <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" alt="linkedin" width=6%/>
 </a>
 
-<p>
 <div>
 <h3 align="center">
   <img style="vertical-align:middle" width="6.3%" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email">
@@ -74,26 +94,13 @@ accomplishment has substance nearly as great as the road used to achieve it"
   <img style="vertical-align:middle" width="5%" src="https://gifyu.com/image/Swf7x" alt="Email">
   <span style="">ismaelsolerferreira@gmail.com</span>
 </div>-->
-<p>
-
-</p>
-
 </div>
 
-#
-
-<h3 align="center">
-📈 My Github stats
-</h3>
-<p align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=salvaborit&show_icons=true&count_private=true&theme=darcula&hide_title=true&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="salvaborit" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvaborit&layout=compact&hide_border=true&theme=darcula&hide_title=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,m,css,php" alt="salvaborit" /> -->
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ismael-soler&theme=darcula&hide_border=true&background=FFFFFF00" alt="salvaborit" />
- <br>
- <br>
 </p>
 
+
 <br>
+
 <div align="center">
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fismael-soler&label=Profile%20Views&labelColor=%23d9e3f0&countColor=%23697689&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fismael-soler)
