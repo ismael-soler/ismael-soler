@@ -53,7 +53,7 @@ accomplishment has substance nearly as great as the road used to achieve it"
 
 ##
 
-
+ <!-- 
 <h3 align="center">
 ⚒️ Relevant projects
 </h3>
@@ -62,7 +62,7 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <p align="center"><a href="https://github.com/ismael-soler/sorting_algorithm_visualizer">Sorting Algorithm Visualizer</a></p>
 <p align="center"><a href="https://github.com/ismael-soler/holbertonschool-AirBnB_clone">Simple Airbnb clone</a></p>
 <p align="center"><a href="https://github.com/ismael-soler/holbertonschool-simple_shell">Shell in C</a></p>
-
+-->
 
 <br>
 <h3 align="center">
