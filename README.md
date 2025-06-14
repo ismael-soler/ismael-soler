@@ -1,25 +1,10 @@
 <!--HEADER-->
 <h1 align="center">
 <img width=3.5% src="https://s5.gifyu.com/images/ezgif.com-gif-maker-3ba49abe6c32abe6c.gif" alt="gif" />
-  Hi! I'm Ismael Soler
+Ismael Soler
 </h1>
 
-
-<!-- BANNER -->
-<p align="center"><img width=90% src="https://s5.gifyu.com/images/ezgif-2-ad2ddd7fcb.gif" alt="gif" /></p>
-
-
-```PHP
-"And so, does the destination matter? Or is it the path we take? I declare that no
-accomplishment has substance nearly as great as the road used to achieve it"
-― Brandon Sanderson, The Stormlight Archive
-```
-
-
-
-#
-
-<p align="center">Holberton School Software Develompent graduate 🤠</p>
+<p align="center">Backend Developer with 1+ year of experience in cloud-native environment and AI integration.</p>
 <!-- <p align="center">Currently working on holbertonschool-higher_level_programming</p> -->
 <!-- LANGUAGE AND TOOLS -->
 <!--<h3 align="center">🛠 Languages and Tools</h3>-->
@@ -44,12 +29,6 @@ accomplishment has substance nearly as great as the road used to achieve it"
 <!--<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width=7%/> </a> -->
 <!--</p>-->
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,html,css,bash,react,django,flask,mysql&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ##
 
